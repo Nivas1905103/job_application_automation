@@ -4,6 +4,8 @@ on:
   schedule:
     # 12:00 AM IST corresponds to 18:30 UTC
     - cron: '30 18 * * *'
+  push:
+    branches: [main]
   workflow_dispatch: # Allows manual trigger anytime from GitHub Actions UI
 
 jobs:
