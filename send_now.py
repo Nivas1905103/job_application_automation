@@ -9,7 +9,7 @@ RECIPIENT = "nivasanmugam@gmail.com"
 
 # Check environment or prompt for SMTP credentials
 SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "nivasanmugam@gmail.com")
-SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "faxw uqwy vqmw cmcw")
+SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "")
 SMTP_SERVER = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
 SMTP_PORT = int(os.environ.get("SMTP_PORT", 587))
 

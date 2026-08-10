@@ -21,7 +21,7 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 SMTP_SERVER = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
 SMTP_PORT = int(os.environ.get("SMTP_PORT", 587))
 SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "nivasanmugam@gmail.com")
-SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "faxw uqwy vqmw cmcw")
+SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "")
 
 async def run_daily_automation():
     """
