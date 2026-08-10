@@ -9,6 +9,15 @@
     "notes": "Unit test submission"
   },
   {
+    "job_id": "test_hist_1",
+    "title": "Full Stack Dev",
+    "company": "Demo Systems",
+    "url": "https://example.com/apply",
+    "applied_at": "2026-08-10 23:50:00",
+    "status": "Submitted",
+    "notes": "Unit test submission"
+  },
+  {
     "job_id": "cloud_india_5",
     "title": "IT Systems Support Engineer & Cloud Administrator",
     "company": "HCLTech Infrastructure Services",

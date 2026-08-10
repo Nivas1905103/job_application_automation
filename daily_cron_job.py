@@ -88,7 +88,7 @@ async def run_daily_automation():
     # Prepare Email Summary Digest
     report_content = generate_email_report(candidate_name, recipient_email, applied_jobs)
 
-    # Save local report log
+    # Save JSON report log
     report_filename = f"report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
     with open(os.path.join(LOGS_DIR, report_filename), "w", encoding="utf-8") as f:
         json.dump({
@@ -98,6 +98,15 @@ async def run_daily_automation():
             "total_applied": len(applied_jobs),
             "jobs": applied_jobs
         }, f, indent=2)
+
+    # Save HTML report file
+    html_filename = f"daily_report_{datetime.now().strftime('%Y%m%d')}.html"
+    with open(os.path.join(LOGS_DIR, html_filename), "w", encoding="utf-8") as f:
+        f.write(report_content)
+
+    # Save latest HTML report file
+    with open(os.path.join(LOGS_DIR, "latest_daily_report.html"), "w", encoding="utf-8") as f:
+        f.write(report_content)
 
     # Send Email Report
     send_email_notification(recipient_email, candidate_name, len(applied_jobs), report_content)
