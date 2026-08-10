@@ -1,0 +1,106 @@
+{
+  "run_time": "2026-08-11 00:44:42",
+  "candidate_name": "NIVAS S",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 14,
+  "jobs": [
+    {
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    },
+    {
+      "title": "Product Sales Specialist - Pet Health (CST timezone)",
+      "company": "Tribe Wellness",
+      "location": "Worldwide",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    },
+    {
+      "title": "Head of Marketing & Communications",
+      "company": "garden3d",
+      "location": "Worldwide",
+      "match_score": 98,
+      "status": "Pre-filled (Action Required)"
+    },
+    {
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    },
+    {
+      "title": "Solution Architect - AWS Plattform & Cloud Security (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Stuttgart",
+      "match_score": 70,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Senior SAP ABAP Developer - HR Data Migration Support (Freelance, Remote)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "location": "Bonn",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "SAP Basis (Senior) Consultant (m/w/d)",
+      "company": "Windhoff Group",
+      "location": "Gescher",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Media Search Analyst - English (United Kingdom)",
+      "company": "TELUS Digital",
+      "location": "London",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
+      "company": "Microsoft Cloud Partner / CloudX India",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 92,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+      "company": "LTI Mindtree Cloud Services",
+      "location": "Bangalore / Pune / Remote India",
+      "match_score": 82,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+      "company": "Persistent Cloud Systems",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+      "company": "Capgemini India Cloud Practice",
+      "location": "Gurgaon / Noida / Remote India",
+      "match_score": 75,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+      "company": "Amazon Web Services / Azure Enterprise Partner",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 77,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "IT Systems Support Engineer & Cloud Administrator",
+      "company": "HCLTech Infrastructure Services",
+      "location": "Chennai / Remote India",
+      "match_score": 64,
+      "status": "Pre-filled"
+    }
+  ]
+}
