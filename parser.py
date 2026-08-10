@@ -10,13 +10,16 @@ class ResumeParser:
     """
 
     COMMON_SKILLS = [
-        # Cloud & Systems Administration
-        "Cloud Support", "Systems Administration", "AWS", "Azure", "GCP", "Linux", "Windows Server",
-        "DevOps", "Docker", "Kubernetes", "Terraform", "Ansible", "Shell Scripting", "Bash", "Powershell",
+        # Azure & Cloud Support Specialist
+        "Azure", "Azure Support", "Azure Cloud Admin", "Azure Administrator", "Azure DevOps", "Azure AD", "Entra ID",
+        "AZ-104", "AZ-900", "AZ-500", "AZ-305", "Azure Virtual Machines", "Azure VNets", "Azure Blob Storage", "Azure App Service",
+        "ARM Templates", "Bicep", "Powershell", "Azure Monitor", "KQL", "Kusto", "Log Analytics", "Azure Key Vault",
+        "Cloud Support", "Systems Administration", "AWS", "GCP", "Linux", "Windows Server",
+        "DevOps", "Docker", "Kubernetes", "Terraform", "Ansible", "Shell Scripting", "Bash",
         "Networking", "DNS", "VPN", "TCP/IP", "Firewall", "IAM", "CloudWatch", "Datadog", "Nagios",
         "ITIL", "ServiceDesk", "Jira", "Incident Management", "SLA Management", "Troubleshooting",
         "Customer Support", "Technical Support", "Active Directory", "VMware", "CI/CD",
-        # Software & Data
+        # Software & Automation
         "Python", "JavaScript", "TypeScript", "React", "Node.js", "FastAPI", "Express", "SQL", "PostgreSQL", "MongoDB",
         "REST API", "Git", "Agile", "Scrum", "Communication"
     ]

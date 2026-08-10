@@ -60,13 +60,17 @@ async def run_daily_automation():
     matcher = ResumeMatcher()
     applier = AutoApplier(resume_file_path=resume_path)
 
-    keywords = resume_data.get("skills", []) + ["Cloud Support Engineer", "Cloud Admin", "Systems Administrator"]
-    jobs = fetcher.search_jobs(keywords=keywords, location_filter="india", limit=25)
+    keywords = resume_data.get("skills", []) + [
+        "Azure Support Engineer", "Azure Administrator", "Azure Cloud Engineer",
+        "Azure DevOps Support", "Azure Systems Admin", "Cloud Support Engineer",
+        "Systems Administrator", "IT Infrastructure Admin"
+    ]
+    jobs = fetcher.search_jobs(keywords=keywords, location_filter="india", limit=50)
 
     applied_jobs = []
     for job in jobs:
         match_info = matcher.match_resume_to_job(resume_data, job)
-        if match_info.get("match_score", 0) >= 60:
+        if match_info.get("match_score", 0) >= 50:
             result = await applier.apply_to_job(
                 job=job,
                 candidate_info=match_info.get("application_answers", {}),
