@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoApply AI - Automated Job Application & Match Engine</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="glow-bg"></div>
+
+    <!-- Navigation Header -->
+    <header class="navbar">
+        <div class="logo">
+            <div class="logo-icon"><i class="fa-solid fa-paper-plane"></i></div>
+            <span class="logo-text">AutoApply <span class="badge-ai">AI PRO</span></span>
+        </div>
+        <div class="nav-metrics">
+            <div class="metric-pill">
+                <i class="fa-solid fa-earth-americas icon-globe"></i>
+                <span>India & Worldwide Remote</span>
+            </div>
+            <div class="metric-pill status-pill">
+                <span class="pulse-dot"></span>
+                <span>Automation Engine Ready</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="app-container">
+        <!-- Hero & Upload Bar -->
+        <section class="hero-section">
+            <div class="hero-content">
+                <h1>India Cloud Support & Admin Automation Engine</h1>
+                <p>Upload your resume. Our AI scans the web for Cloud Support Engineer, Systems Administrator, and Cloud Operations jobs in India, extracts resume keywords, and auto-applies in one click.</p>
+            </div>
+
+            <!-- Drag and Drop Resume Uploader -->
+            <div class="uploader-card" id="drop-zone">
+                <input type="file" id="resume-input" accept=".pdf,.docx,.txt" hidden>
+                <div class="upload-icon-box">
+                    <i class="fa-solid fa-cloud-arrow-up"></i>
+                </div>
+                <div class="upload-text">
+                    <h3>Drag & Drop your Resume here</h3>
+                    <p>Supports PDF, DOCX, or TXT. AI scans all keywords to search Cloud & Admin jobs across India.</p>
+                </div>
+                <button class="btn btn-secondary" onclick="document.getElementById('resume-input').click()">
+                    <i class="fa-solid fa-folder-open"></i> Browse Resume File
+                </button>
+            </div>
+        </section>
+
+        <!-- Control Bar & Filters -->
+        <section class="control-bar">
+            <div class="filter-group">
+                <label><i class="fa-solid fa-location-dot"></i> Target Region:</label>
+                <select id="location-select" onchange="loadJobs()">
+                    <option value="india" selected>🇮🇳 India Jobs & Remote (Primary Focus)</option>
+                    <option value="all">🌐 All Remote (India & Global)</option>
+                    <option value="worldwide">🌍 Worldwide Remote Only</option>
+                </select>
+            </div>
+
+            <div class="search-group">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="keyword-search" placeholder="Target roles (e.g. Cloud Support Engineer, Cloud Admin, Systems Admin)..." onkeyup="debounceSearch()">
+            </div>
+
+            <button class="btn btn-primary" onclick="loadJobs()">
+                <i class="fa-solid fa-arrows-rotate"></i> Scan Matching Jobs
+            </button>
+
+            <button class="btn btn-success" onclick="runBatchApply()">
+                <i class="fa-solid fa-bolt"></i> Auto-Apply to All Matched Jobs
+            </button>
+        </section>
+
+        <!-- Dashboard Layout -->
+        <div class="dashboard-grid">
+            <!-- Sidebar / Candidate Profile -->
+            <aside class="profile-sidebar">
+                <div class="card profile-card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-user-gear"></i> Active Candidate Profile</h3>
+                        <span class="active-badge" id="profile-status">Demo Profile Active</span>
+                    </div>
+                    <div class="profile-body" id="profile-body">
+                        <div class="candidate-header">
+                            <div class="avatar" id="candidate-avatar">AM</div>
+                            <div>
+                                <h4 id="candidate-name">Alex Mercer</h4>
+                                <p id="candidate-title">Senior Software Engineer</p>
+                            </div>
+                        </div>
+
+                        <div class="contact-info-list">
+                            <p><i class="fa-regular fa-envelope"></i> <span id="candidate-email">alex.mercer@example.com</span></p>
+                            <p><i class="fa-solid fa-phone"></i> <span id="candidate-phone">+91 9876543210</span></p>
+                            <p><i class="fa-brands fa-linkedin"></i> <span id="candidate-linkedin">linkedin.com/in/alexmercer-dev</span></p>
+                        </div>
+
+                        <div class="skills-wrapper">
+                            <h5><i class="fa-solid fa-code"></i> Parsed Skill Set</h5>
+                            <div class="tag-cloud" id="profile-skills">
+                                <!-- Tags dynamically inserted -->
+                            </div>
+                        </div>
+
+                        <div class="stats-box">
+                            <div class="stat-item">
+                                <span class="stat-val" id="stat-match-count">0</span>
+                                <span class="stat-lbl">Matched Jobs</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-val" id="stat-applied-count">0</span>
+                                <span class="stat-lbl">Applications Sent</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- History Audit Card -->
+                <div class="card history-card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-clock-rotate-left"></i> Application Activity Log</h3>
+                        <button class="btn-text" onclick="fetchHistory()"><i class="fa-solid fa-rotate-right"></i> Refresh</button>
+                    </div>
+                    <div class="history-list" id="history-list">
+                        <!-- Dynamic history logs -->
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Jobs Feed -->
+            <section class="jobs-feed">
+                <div class="feed-header">
+                    <h2>Matched Remote Job Listings (<span id="jobs-count">0</span>)</h2>
+                    <div class="sort-indicator">
+                        <i class="fa-solid fa-arrow-down-short-wide"></i> Sorted by AI Match %
+                    </div>
+                </div>
+
+                <div class="jobs-list" id="jobs-container">
+                    <!-- Dynamic Job Cards inserted here -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Modal for Cover Letter Preview -->
+    <div class="modal-overlay" id="cover-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fa-solid fa-file-signature"></i> AI Generated Cover Letter</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <textarea id="cover-letter-text" readonly></textarea>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="copyCoverLetter()"><i class="fa-solid fa-copy"></i> Copy Text</button>
+                <button class="btn btn-primary" onclick="closeModal()">Close Preview</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast"></div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>
