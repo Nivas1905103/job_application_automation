@@ -20,8 +20,8 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 # Email configuration (Can be configured via ENV variables or default log service)
 SMTP_SERVER = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
 SMTP_PORT = int(os.environ.get("SMTP_PORT", 587))
-SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "autoapply.notification@gmail.com")
-SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "")
+SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "nivasanmugam@gmail.com")
+SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "faxw uqwy vqmw cmcw")
 
 async def run_daily_automation():
     """
