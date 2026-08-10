@@ -52,8 +52,8 @@ async def run_daily_automation():
             "experience_level": "Senior Cloud Support Engineer"
         }
 
-    recipient_email = resume_data.get("email", "candidate@example.com")
-    candidate_name = resume_data.get("name", "Candidate")
+    recipient_email = os.environ.get("CANDIDATE_EMAIL", resume_data.get("email") or "nivasanmugam@gmail.com")
+    candidate_name = resume_data.get("name", "Nivas")
 
     # Fetch matching jobs in India & Global
     fetcher = JobFetcher()
