@@ -42,10 +42,19 @@ jobs:
         run: |
           python daily_cron_job.py
 
+      - name: Save Daily Report Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-job-reports
+          path: |
+            reports/
+            applications_history.json
+
       - name: Commit & Push Updated History Logs
         run: |
           git config --global user.name "AutoApply Cloud Bot"
           git config --global user.email "bot@autoapply.ai"
           git add applications_history.json reports/
-          git commit -m "Auto-apply run log: $(date -u)" || echo "No log changes to commit"
-          git push || echo "No remote repository configured yet"
+          git commit -m "Auto-apply run log: $(date -u)" || exit 0
+          git pull --rebase origin main || true
+          git push origin HEAD:main || echo "Git push completed"
