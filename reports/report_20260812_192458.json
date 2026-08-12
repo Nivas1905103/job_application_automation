@@ -1,0 +1,71 @@
+{
+  "run_time": "2026-08-12 19:24:58",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 9,
+  "jobs": [
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Forward Deployed Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Forward Deployed AI Engineer",
+      "company": "gravity9",
+      "location": "Remote job",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
+      "company": "Microsoft Cloud Partner / CloudX India",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+      "company": "LTI Mindtree Cloud Services",
+      "location": "Bangalore / Pune / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+      "company": "Persistent Cloud Systems",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+      "company": "Capgemini India Cloud Practice",
+      "location": "Gurgaon / Noida / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+      "company": "Amazon Web Services / Azure Enterprise Partner",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 98,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "IT Systems Support Engineer & Cloud Administrator",
+      "company": "HCLTech Infrastructure Services",
+      "location": "Chennai / Remote India",
+      "match_score": 62,
+      "status": "Pre-filled"
+    }
+  ]
+}
