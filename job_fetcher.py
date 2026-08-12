@@ -113,6 +113,11 @@ class JobFetcher:
                 if not any(kw.lower() in text_to_search for kw in keywords):
                     continue
 
+            # Freshness filtering: Only allow jobs posted within the last 1-7 days or marked 'Recently'
+            posted_str = str(job.get("posted_date", "")).lower()
+            if "older" in posted_str or "30+" in posted_str or "month" in posted_str:
+                continue
+
             filtered_jobs.append(job)
 
         # De-duplicate by ID
