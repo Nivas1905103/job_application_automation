@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-08-12 05:14:56",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 11,
+  "jobs": [
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "AI / ML Engineer (m/w/d)",
+      "company": "Recare Deutschland GmbH",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior AI Engineer (m/w/d)",
+      "company": "Auxmoney Gmbh",
+      "location": "Remote / D\u00fcsseldorf",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Cloud Engineer (m/w/d) Azure",
+      "company": "group24 AG",
+      "location": "Hamburg",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Pflichtpraktikant:in Marketing Content, Social Media & E-Commerce (m/w/d) f\u00fcr Premium Hundezubeh\u00f6r",
+      "company": "lasting brands GmbH",
+      "location": "Sittensen",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
+      "company": "Microsoft Cloud Partner / CloudX India",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+      "company": "LTI Mindtree Cloud Services",
+      "location": "Bangalore / Pune / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+      "company": "Persistent Cloud Systems",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+      "company": "Capgemini India Cloud Practice",
+      "location": "Gurgaon / Noida / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+      "company": "Amazon Web Services / Azure Enterprise Partner",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 98,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "IT Systems Support Engineer & Cloud Administrator",
+      "company": "HCLTech Infrastructure Services",
+      "location": "Chennai / Remote India",
+      "match_score": 62,
+      "status": "Pre-filled"
+    }
+  ]
+}
