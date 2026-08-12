@@ -42,6 +42,20 @@ jobs:
         run: |
           python daily_cron_job.py
 
+      - name: Send Daily Email Digest to Candidate
+        if: ${{ secrets.SENDER_PASSWORD != '' }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.SENDER_EMAIL || 'nivasanmugam@gmail.com' }}
+          password: ${{ secrets.SENDER_PASSWORD }}
+          subject: 🚀 Daily Job Application Report: New Azure & Cloud Positions Applied
+          to: nivasanmugam@gmail.com
+          from: AutoApply AI <${{ secrets.SENDER_EMAIL || 'nivasanmugam@gmail.com' }}>
+          html_body: file://reports/latest_daily_report.html
+
       - name: Save Daily Report Artifacts
         uses: actions/upload-artifact@v4
         with:
