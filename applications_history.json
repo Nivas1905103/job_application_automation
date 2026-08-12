@@ -4,6 +4,105 @@
     "title": "IT Systems Support Engineer & Cloud Administrator",
     "company": "HCLTech Infrastructure Services",
     "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply",
+    "applied_at": "2026-08-12 06:58:34",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_1",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner",
+    "url": "https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply",
+    "applied_at": "2026-08-12 06:58:30",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_4",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice",
+    "url": "https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin",
+    "applied_at": "2026-08-12 06:58:24",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems",
+    "url": "https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support",
+    "applied_at": "2026-08-12 06:58:20",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_2",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services",
+    "url": "https://boards.greenhouse.io/ltimindtree/jobs/710291",
+    "applied_at": "2026-08-12 06:58:16",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_1",
+    "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
+    "company": "Microsoft Cloud Partner / CloudX India",
+    "url": "https://jobs.lever.co/cloudx/azure-support-engineer/apply",
+    "applied_at": "2026-08-12 06:58:11",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "arbeitnow_cloud-engineer-azure-hamburg-183946",
+    "title": "Cloud Engineer (m/w/d) Azure",
+    "company": "group24 AG",
+    "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/cloud-engineer-azure-hamburg-183946",
+    "applied_at": "2026-08-12 06:57:38",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_LomflNhuwKd6etYi\" name=\"arbeitnow_name_LomflNhuwKd6etYi\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-ai-engineer-346263",
+    "title": "Senior AI Engineer (m/w/d)",
+    "company": "Auxmoney Gmbh",
+    "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-ai-engineer-346263",
+    "applied_at": "2026-08-12 06:57:33",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-ai-ml-engineer-berlin-374215",
+    "title": "AI / ML Engineer (m/w/d)",
+    "company": "Recare Deutschland GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-ai-ml-engineer-berlin-374215",
+    "applied_at": "2026-08-12 06:57:28",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-manager-customer-success-engineering-428126",
+    "title": "Senior Manager, Customer Success Engineering",
+    "company": "Veeamsoftware",
+    "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-manager-customer-success-engineering-428126",
+    "applied_at": "2026-08-12 06:57:24",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "remotive_2091045",
+    "title": "Tier III Service Desk Engineer",
+    "company": "Unio Digital",
+    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+    "applied_at": "2026-08-12 06:56:49",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='email']\").first\n    - locator resolved to <input type=\"email\" placeholder=\"Your Email Address\" id=\"dead-link-report-modal-email\" class=\"tw-w-full tw-mt-2 tw-form-input\"/>\n    - fill(\"cloud.support.india@example.com\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "cloud_india_5",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services",
+    "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply",
     "applied_at": "2026-08-12 06:43:24",
     "status": "Pre-filled",
     "notes": "Form fields & resume pre-populated on job portal page."
