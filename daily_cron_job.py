@@ -67,8 +67,34 @@ async def run_daily_automation():
     ]
     jobs = fetcher.search_jobs(keywords=keywords, location_filter="india", limit=50)
 
+    # Load previous application history to prevent re-applying to the same job
+    previous_history = applier.get_history()
+    applied_signatures = set()
+    for item in previous_history:
+        if item.get("job_id"):
+            applied_signatures.add(str(item.get("job_id")).lower())
+        if item.get("url"):
+            applied_signatures.add(str(item.get("url")).lower())
+        if item.get("apply_url"):
+            applied_signatures.add(str(item.get("apply_url")).lower())
+        if item.get("title") and item.get("company"):
+            applied_signatures.add(f"{str(item.get('title')).lower()}_{str(item.get('company')).lower()}")
+
     applied_jobs = []
     for job in jobs:
+        job_id_sig = str(job.get("id", "")).lower()
+        job_url_sig = str(job.get("url", "")).lower()
+        job_apply_sig = str(job.get("apply_url", "")).lower()
+        job_title_comp_sig = f"{str(job.get('title', '')).lower()}_{str(job.get('company', '')).lower()}"
+
+        # Skip if job was already applied to previously
+        if (job_id_sig in applied_signatures or 
+            job_url_sig in applied_signatures or 
+            job_apply_sig in applied_signatures or 
+            job_title_comp_sig in applied_signatures):
+            print(f"Skipping already applied job: {job.get('title')} at {job.get('company')}")
+            continue
+
         match_info = matcher.match_resume_to_job(resume_data, job)
         if match_info.get("match_score", 0) >= 50:
             result = await applier.apply_to_job(

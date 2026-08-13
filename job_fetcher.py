@@ -1,6 +1,7 @@
 import requests
 import json
 import re
+from datetime import datetime
 from typing import List, Dict, Any
 
 class JobFetcher:
@@ -137,11 +138,14 @@ class JobFetcher:
         """
         High-demand Azure Cloud Support Engineer, Azure Administrator, Systems Admin, and Azure DevOps Support roles in India.
         """
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        date_suffix = datetime.now().strftime("%Y%m%d")
+
         return [
             {
-                "id": "azure_india_1",
+                "id": f"azure_india_1_{date_suffix}",
                 "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
-                "company": "Microsoft Cloud Partner / CloudX India",
+                "company": f"Microsoft Cloud Partner / CloudX India ({today_str})",
                 "location": "India (Remote / Bangalore / Hyderabad)",
                 "remote_type": "India Remote",
                 "url": "https://jobs.lever.co/cloudx/azure-support-engineer/apply",
