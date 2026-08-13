@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-08-13 20:11:59",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+      "company": "Infosys Cloud Ecosystems (2026-08-13)",
+      "location": "Bangalore / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Infrastructure & Network Support Engineer",
+      "company": "Wipro Cloud Practices (2026-08-13)",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Identity & Entra ID Engineer (Remote India)",
+      "company": "TCS Cloud Identity Services (2026-08-13)",
+      "location": "Pune / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Cloud Automation & PowerShell Specialist",
+      "company": "Cognizant Cloud Solutions (2026-08-13)",
+      "location": "Gurgaon / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Senior Systems Administrator & Azure Cloud Admin",
+      "company": "Tech Mahindra Infrastructure (2026-08-13)",
+      "location": "Noida / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    }
+  ]
+}
