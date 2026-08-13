@@ -1,0 +1,22 @@
+{
+  "run_time": "2026-08-14 01:32:08",
+  "candidate_name": "NIVAS S",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 2,
+  "jobs": [
+    {
+      "title": "Nominee Company Director",
+      "company": "Emplyfy",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Company Nominee Director",
+      "company": "Emplyfy",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
