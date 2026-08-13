@@ -1,5 +1,59 @@
 [
   {
+    "job_id": "cloud_india_5_20260814",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services (2026-08-14)",
+    "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply?date=20260814",
+    "applied_at": "2026-08-14 01:36:57",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_1_20260814",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-14)",
+    "url": "https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date=20260814",
+    "applied_at": "2026-08-14 01:36:53",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_4_20260814",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice (2026-08-14)",
+    "url": "https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date=20260814",
+    "applied_at": "2026-08-14 01:36:47",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3_20260814",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems (2026-08-14)",
+    "url": "https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date=20260814",
+    "applied_at": "2026-08-14 01:36:42",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_2_20260814",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services (2026-08-14)",
+    "url": "https://boards.greenhouse.io/ltimindtree/jobs/710291?date=20260814",
+    "applied_at": "2026-08-14 01:36:37",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "test_hist_1",
+    "title": "Full Stack Dev",
+    "company": "Demo Systems",
+    "url": "https://example.com/apply",
+    "applied_at": "2026-08-10 23:50:00",
+    "status": "Submitted",
+    "notes": "Unit test submission"
+  },
+  {
     "job_id": "arbeitnow_remote-company-nominee-director-chalkhouse-green-374598",
     "title": "Company Nominee Director",
     "company": "Emplyfy",
