@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-08-13 20:08:42",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+      "company": "LTI Mindtree Cloud Services (2026-08-13)",
+      "location": "Bangalore / Pune / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+      "company": "Persistent Cloud Systems (2026-08-13)",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+      "company": "Capgemini India Cloud Practice (2026-08-13)",
+      "location": "Gurgaon / Noida / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+      "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-13)",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 98,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "IT Systems Support Engineer & Cloud Administrator",
+      "company": "HCLTech Infrastructure Services (2026-08-13)",
+      "location": "Chennai / Remote India",
+      "match_score": 62,
+      "status": "Pre-filled"
+    }
+  ]
+}
