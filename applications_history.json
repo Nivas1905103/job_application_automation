@@ -1,5 +1,122 @@
 [
   {
+    "job_id": "cloud_india_10_20260818",
+    "title": "Senior Systems Administrator & Azure Cloud Admin",
+    "company": "Tech Mahindra Infrastructure (2026-08-18)",
+    "url": "https://jobs.lever.co/techmahindra/azure-sysadmin/apply?date=20260818",
+    "applied_at": "2026-08-18 19:08:46",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_9_20260818",
+    "title": "Azure Cloud Automation & PowerShell Specialist",
+    "company": "Cognizant Cloud Solutions (2026-08-18)",
+    "url": "https://cognizant.wd1.myworkdayjobs.com/Careers/job/Azure-Powershell-Admin?date=20260818",
+    "applied_at": "2026-08-18 19:08:41",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_8_20260818",
+    "title": "Azure Identity & Entra ID Engineer (Remote India)",
+    "company": "TCS Cloud Identity Services (2026-08-18)",
+    "url": "https://jobs.smartrecruiters.com/TCS/Azure-Entra-ID-Engineer?date=20260818",
+    "applied_at": "2026-08-18 19:08:37",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_7_20260818",
+    "title": "Azure Infrastructure & Network Support Engineer",
+    "company": "Wipro Cloud Practices (2026-08-18)",
+    "url": "https://boards.greenhouse.io/wipro/jobs/829102?date=20260818",
+    "applied_at": "2026-08-18 19:08:30",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_6_20260818",
+    "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+    "company": "Infosys Cloud Ecosystems (2026-08-18)",
+    "url": "https://jobs.lever.co/infosys/azure-cloud-operations/apply?date=20260818",
+    "applied_at": "2026-08-18 19:08:26",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_5_20260818",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services (2026-08-18)",
+    "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply?date=20260818",
+    "applied_at": "2026-08-18 19:08:22",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_1_20260818",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-18)",
+    "url": "https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date=20260818",
+    "applied_at": "2026-08-18 19:08:17",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_4_20260818",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice (2026-08-18)",
+    "url": "https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date=20260818",
+    "applied_at": "2026-08-18 19:08:12",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3_20260818",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems (2026-08-18)",
+    "url": "https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date=20260818",
+    "applied_at": "2026-08-18 19:08:08",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_2_20260818",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services (2026-08-18)",
+    "url": "https://boards.greenhouse.io/ltimindtree/jobs/710291?date=20260818",
+    "applied_at": "2026-08-18 19:08:03",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "arbeitnow_monitoring-specialist-it-operations-engineer-pulsnitz-240722",
+    "title": "Monitoring Specialist/IT Operations Engineer (W/M/D)",
+    "company": "secupay AG",
+    "url": "https://www.arbeitnow.com/jobs/companies/secupay-ag/monitoring-specialist-it-operations-engineer-pulsnitz-240722",
+    "applied_at": "2026-08-18 19:07:31",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_85ci5bnrAMTMpe6R\" name=\"arbeitnow_name_85ci5bnrAMTMpe6R\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_teamlead-professional-services-remote-dusseldorf-297088",
+    "title": "Teamlead Professional Services (m/w/d) REMOTE",
+    "company": "Pont Connects e.K.",
+    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/teamlead-professional-services-remote-dusseldorf-297088",
+    "applied_at": "2026-08-18 19:06:58",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_K5wmWZjtvxHa68pk\" name=\"arbeitnow_name_K5wmWZjtvxHa68pk\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_software-developer-linux-python-integrations-remote-dusseldorf-486714",
+    "title": "Software Developer Linux Python Integrations (m/w/d) REMOTE",
+    "company": "Pont Connects e.K.",
+    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/software-developer-linux-python-integrations-remote-dusseldorf-486714",
+    "applied_at": "2026-08-18 19:06:24",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_0G4lyCYD6ni4g8lV\" name=\"arbeitnow_name_0G4lyCYD6ni4g8lV\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "cloud_india_10_20260817",
     "title": "Senior Systems Administrator & Azure Cloud Admin",
     "company": "Tech Mahindra Infrastructure (2026-08-17)",
