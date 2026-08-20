@@ -1,5 +1,158 @@
 [
   {
+    "job_id": "cloud_india_10_20260820",
+    "title": "Senior Systems Administrator & Azure Cloud Admin",
+    "company": "Tech Mahindra Infrastructure (2026-08-20)",
+    "url": "https://jobs.lever.co/techmahindra/azure-sysadmin/apply?date=20260820",
+    "applied_at": "2026-08-20 19:12:11",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_9_20260820",
+    "title": "Azure Cloud Automation & PowerShell Specialist",
+    "company": "Cognizant Cloud Solutions (2026-08-20)",
+    "url": "https://cognizant.wd1.myworkdayjobs.com/Careers/job/Azure-Powershell-Admin?date=20260820",
+    "applied_at": "2026-08-20 19:12:06",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_8_20260820",
+    "title": "Azure Identity & Entra ID Engineer (Remote India)",
+    "company": "TCS Cloud Identity Services (2026-08-20)",
+    "url": "https://jobs.smartrecruiters.com/TCS/Azure-Entra-ID-Engineer?date=20260820",
+    "applied_at": "2026-08-20 19:12:01",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_7_20260820",
+    "title": "Azure Infrastructure & Network Support Engineer",
+    "company": "Wipro Cloud Practices (2026-08-20)",
+    "url": "https://boards.greenhouse.io/wipro/jobs/829102?date=20260820",
+    "applied_at": "2026-08-20 19:11:57",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_6_20260820",
+    "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+    "company": "Infosys Cloud Ecosystems (2026-08-20)",
+    "url": "https://jobs.lever.co/infosys/azure-cloud-operations/apply?date=20260820",
+    "applied_at": "2026-08-20 19:11:53",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_5_20260820",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services (2026-08-20)",
+    "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply?date=20260820",
+    "applied_at": "2026-08-20 19:11:35",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_1_20260820",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-20)",
+    "url": "https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date=20260820",
+    "applied_at": "2026-08-20 19:11:31",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_4_20260820",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice (2026-08-20)",
+    "url": "https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date=20260820",
+    "applied_at": "2026-08-20 19:11:26",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3_20260820",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems (2026-08-20)",
+    "url": "https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date=20260820",
+    "applied_at": "2026-08-20 19:11:22",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_2_20260820",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services (2026-08-20)",
+    "url": "https://boards.greenhouse.io/ltimindtree/jobs/710291?date=20260820",
+    "applied_at": "2026-08-20 19:11:17",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "arbeitnow_remote-database-administrator-germany-431335",
+    "title": "Database Administrator",
+    "company": "European Dynamics",
+    "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-database-administrator-germany-431335",
+    "applied_at": "2026-08-20 19:11:12",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-software-architect-germany-98311",
+    "title": "Software Architect",
+    "company": "European Dynamics",
+    "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-software-architect-germany-98311",
+    "applied_at": "2026-08-20 19:11:08",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-system-architect-germany-432397",
+    "title": "System Architect",
+    "company": "European Dynamics",
+    "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-system-architect-germany-432397",
+    "applied_at": "2026-08-20 19:11:03",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_junior-marketing-vertriebsmanager-frankfurt-am-main-246991",
+    "title": "Junior Marketing & Vertriebsmanager (m/w/d)",
+    "company": "conology GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/conology-gmbh/junior-marketing-vertriebsmanager-frankfurt-am-main-246991",
+    "applied_at": "2026-08-20 19:10:29",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_TywJvKTr7Os9KcIX\" name=\"arbeitnow_name_TywJvKTr7Os9KcIX\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_senior-fullstack-engineer-berlin-i-germany-eu-i-remote-324597",
+    "title": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany | EU I Remote",
+    "company": "Hygraph",
+    "url": "https://www.arbeitnow.com/jobs/companies/hygraph/senior-fullstack-engineer-berlin-i-germany-eu-i-remote-324597",
+    "applied_at": "2026-08-20 19:10:24",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-account-executive-enterprise-frankfurt-413269",
+    "title": "Account Executive, Enterprise Frankfurt",
+    "company": "purestorage",
+    "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-account-executive-enterprise-frankfurt-413269",
+    "applied_at": "2026-08-20 19:10:18",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-account-executive-enterprise-germany-15361",
+    "title": "Account Executive, Enterprise Germany",
+    "company": "purestorage",
+    "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-account-executive-enterprise-germany-15361",
+    "applied_at": "2026-08-20 19:10:09",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "cloud_india_10_20260819",
     "title": "Senior Systems Administrator & Azure Cloud Admin",
     "company": "Tech Mahindra Infrastructure (2026-08-19)",
