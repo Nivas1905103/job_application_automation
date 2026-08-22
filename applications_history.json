@@ -1,5 +1,158 @@
 [
   {
+    "job_id": "cloud_india_10_20260822",
+    "title": "Senior Systems Administrator & Azure Cloud Admin",
+    "company": "Tech Mahindra Infrastructure (2026-08-22)",
+    "url": "https://jobs.lever.co/techmahindra/azure-sysadmin/apply?date=20260822",
+    "applied_at": "2026-08-22 18:58:52",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_9_20260822",
+    "title": "Azure Cloud Automation & PowerShell Specialist",
+    "company": "Cognizant Cloud Solutions (2026-08-22)",
+    "url": "https://cognizant.wd1.myworkdayjobs.com/Careers/job/Azure-Powershell-Admin?date=20260822",
+    "applied_at": "2026-08-22 18:58:47",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_8_20260822",
+    "title": "Azure Identity & Entra ID Engineer (Remote India)",
+    "company": "TCS Cloud Identity Services (2026-08-22)",
+    "url": "https://jobs.smartrecruiters.com/TCS/Azure-Entra-ID-Engineer?date=20260822",
+    "applied_at": "2026-08-22 18:58:43",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_7_20260822",
+    "title": "Azure Infrastructure & Network Support Engineer",
+    "company": "Wipro Cloud Practices (2026-08-22)",
+    "url": "https://boards.greenhouse.io/wipro/jobs/829102?date=20260822",
+    "applied_at": "2026-08-22 18:58:38",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_6_20260822",
+    "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+    "company": "Infosys Cloud Ecosystems (2026-08-22)",
+    "url": "https://jobs.lever.co/infosys/azure-cloud-operations/apply?date=20260822",
+    "applied_at": "2026-08-22 18:58:34",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_5_20260822",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services (2026-08-22)",
+    "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply?date=20260822",
+    "applied_at": "2026-08-22 18:58:30",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_1_20260822",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-22)",
+    "url": "https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date=20260822",
+    "applied_at": "2026-08-22 18:58:25",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_4_20260822",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice (2026-08-22)",
+    "url": "https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date=20260822",
+    "applied_at": "2026-08-22 18:58:20",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3_20260822",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems (2026-08-22)",
+    "url": "https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date=20260822",
+    "applied_at": "2026-08-22 18:58:16",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_2_20260822",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services (2026-08-22)",
+    "url": "https://boards.greenhouse.io/ltimindtree/jobs/710291?date=20260822",
+    "applied_at": "2026-08-22 18:58:11",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "arbeitnow_principal-iam-consultant-identity-governance-and-data-access-london-490046",
+    "title": "Principal IAM Consultant, Identity Governance and Data Access",
+    "company": "Intelance",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/principal-iam-consultant-identity-governance-and-data-access-london-490046",
+    "applied_at": "2026-08-22 18:57:38",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_RM6Oz6dWnaenH3d7\" name=\"arbeitnow_name_RM6Oz6dWnaenH3d7\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_senior-iga-consultant-identity-governance-and-access-controls-london-357448",
+    "title": "Senior IGA Consultant, Identity Governance and Access Controls",
+    "company": "Intelance",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-iga-consultant-identity-governance-and-access-controls-london-357448",
+    "applied_at": "2026-08-22 18:57:05",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_6REWBeDoVX1q7T6M\" name=\"arbeitnow_name_6REWBeDoVX1q7T6M\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-data-scientist-berlin-309145",
+    "title": "Senior Data Scientist (m/f/x)",
+    "company": "Makersite GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-309145",
+    "applied_at": "2026-08-22 18:57:00",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-growth-and-demand-gen-lead-329620",
+    "title": "Growth and Demand Gen Lead",
+    "company": "Nivoda",
+    "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-growth-and-demand-gen-lead-329620",
+    "applied_at": "2026-08-22 18:56:56",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-product-marketing-lead-334897",
+    "title": "Product Marketing Lead",
+    "company": "Nivoda",
+    "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-product-marketing-lead-334897",
+    "applied_at": "2026-08-22 18:56:51",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-content-and-social-media-manager-342403",
+    "title": "Senior Content and Social Media Manager",
+    "company": "Nivoda",
+    "url": "https://www.arbeitnow.com/jobs/companies/nivoda/remote-senior-content-and-social-media-manager-342403",
+    "applied_at": "2026-08-22 18:56:46",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-territory-account-executive-germany-365056",
+    "title": "Territory Account Executive - Germany",
+    "company": "Rubrik",
+    "url": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-territory-account-executive-germany-365056",
+    "applied_at": "2026-08-22 18:56:41",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "cloud_india_10_20260821",
     "title": "Senior Systems Administrator & Azure Cloud Admin",
     "company": "Tech Mahindra Infrastructure (2026-08-21)",
