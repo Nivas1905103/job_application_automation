@@ -1,5 +1,113 @@
 [
   {
+    "job_id": "cloud_india_10_20260829",
+    "title": "Senior Systems Administrator & Azure Cloud Admin",
+    "company": "Tech Mahindra Infrastructure (2026-08-29)",
+    "url": "https://jobs.lever.co/techmahindra/azure-sysadmin/apply?date=20260829",
+    "applied_at": "2026-08-29 01:50:10",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_9_20260829",
+    "title": "Azure Cloud Automation & PowerShell Specialist",
+    "company": "Cognizant Cloud Solutions (2026-08-29)",
+    "url": "https://cognizant.wd1.myworkdayjobs.com/Careers/job/Azure-Powershell-Admin?date=20260829",
+    "applied_at": "2026-08-29 01:50:05",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_8_20260829",
+    "title": "Azure Identity & Entra ID Engineer (Remote India)",
+    "company": "TCS Cloud Identity Services (2026-08-29)",
+    "url": "https://jobs.smartrecruiters.com/TCS/Azure-Entra-ID-Engineer?date=20260829",
+    "applied_at": "2026-08-29 01:50:00",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_7_20260829",
+    "title": "Azure Infrastructure & Network Support Engineer",
+    "company": "Wipro Cloud Practices (2026-08-29)",
+    "url": "https://boards.greenhouse.io/wipro/jobs/829102?date=20260829",
+    "applied_at": "2026-08-29 01:49:56",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_6_20260829",
+    "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+    "company": "Infosys Cloud Ecosystems (2026-08-29)",
+    "url": "https://jobs.lever.co/infosys/azure-cloud-operations/apply?date=20260829",
+    "applied_at": "2026-08-29 01:49:52",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_5_20260829",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services (2026-08-29)",
+    "url": "https://jobs.lever.co/hcltech/it-cloud-support/apply?date=20260829",
+    "applied_at": "2026-08-29 01:49:48",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_1_20260829",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-29)",
+    "url": "https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date=20260829",
+    "applied_at": "2026-08-29 01:49:44",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_4_20260829",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice (2026-08-29)",
+    "url": "https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date=20260829",
+    "applied_at": "2026-08-29 01:49:38",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3_20260829",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems (2026-08-29)",
+    "url": "https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date=20260829",
+    "applied_at": "2026-08-29 01:49:34",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_2_20260829",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services (2026-08-29)",
+    "url": "https://boards.greenhouse.io/ltimindtree/jobs/710291?date=20260829",
+    "applied_at": "2026-08-29 01:49:29",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "arbeitnow_software-developer-ms-dynamics-365-bc-full-remote-offenbach-am-main-56770",
+    "title": "Software Developer (w/m/d) MS Dynamics 365 BC - Full Remote",
+    "company": "Holzland Becker",
+    "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/software-developer-ms-dynamics-365-bc-full-remote-offenbach-am-main-56770",
+    "applied_at": "2026-08-29 01:49:24",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-veeam-kasten-director-se-emea-apj-250747",
+    "title": "Veeam Kasten, Director SE \u2013 EMEA & APJ",
+    "company": "veeamsoftware",
+    "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-250747",
+    "applied_at": "2026-08-29 01:49:19",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "cloud_india_10_20260828",
     "title": "Senior Systems Administrator & Azure Cloud Admin",
     "company": "Tech Mahindra Infrastructure (2026-08-28)",
