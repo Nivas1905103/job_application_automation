@@ -1,0 +1,78 @@
+{
+  "run_time": "2026-08-30 21:20:26",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 10,
+  "jobs": [
+    {
+      "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+      "company": "LTI Mindtree Cloud Services (2026-08-30)",
+      "location": "Bangalore / Pune / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+      "company": "Persistent Cloud Systems (2026-08-30)",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+      "company": "Capgemini India Cloud Practice (2026-08-30)",
+      "location": "Gurgaon / Noida / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+      "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-30)",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 98,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "IT Systems Support Engineer & Cloud Administrator",
+      "company": "HCLTech Infrastructure Services (2026-08-30)",
+      "location": "Chennai / Remote India",
+      "match_score": 62,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+      "company": "Infosys Cloud Ecosystems (2026-08-30)",
+      "location": "Bangalore / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Infrastructure & Network Support Engineer",
+      "company": "Wipro Cloud Practices (2026-08-30)",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Identity & Entra ID Engineer (Remote India)",
+      "company": "TCS Cloud Identity Services (2026-08-30)",
+      "location": "Pune / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Cloud Automation & PowerShell Specialist",
+      "company": "Cognizant Cloud Solutions (2026-08-30)",
+      "location": "Gurgaon / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Senior Systems Administrator & Azure Cloud Admin",
+      "company": "Tech Mahindra Infrastructure (2026-08-30)",
+      "location": "Noida / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    }
+  ]
+}
