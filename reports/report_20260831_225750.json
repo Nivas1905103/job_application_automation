@@ -1,0 +1,29 @@
+{
+  "run_time": "2026-08-31 22:57:50",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 3,
+  "jobs": [
+    {
+      "title": "Core Developer - Node",
+      "company": "Parity",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Software Development Engineers in Test (Python)",
+      "company": "Xm",
+      "location": "Remote",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Site Reliability Engineers (SRE)",
+      "company": "Xm",
+      "location": "Remote",
+      "match_score": 83,
+      "status": "Submitted"
+    }
+  ]
+}
