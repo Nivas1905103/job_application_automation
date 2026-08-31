@@ -148,14 +148,14 @@ class JobFetcher:
                 "company": f"Microsoft Cloud Partner / CloudX India ({today_str})",
                 "location": "India (Remote / Bangalore / Hyderabad)",
                 "remote_type": "India Remote",
-                "url": "https://jobs.lever.co/cloudx/azure-support-engineer/apply",
-                "apply_url": "https://jobs.lever.co/cloudx/azure-support-engineer/apply",
+                "url": "https://www.linkedin.com/jobs/search/?keywords=Azure%20Cloud%20Support%20Engineer&location=India",
+                "apply_url": "https://www.linkedin.com/jobs/search/?keywords=Azure%20Cloud%20Support%20Engineer&location=India",
                 "category": "Azure Support",
                 "tags": ["Azure", "Azure Support", "AZ-104", "Virtual Machines", "Azure VNets", "Entra ID", "Powershell", "Troubleshooting"],
                 "description": "Seeking an Azure Support Engineer in India to provide L2/L3 technical support for enterprise Azure subscriptions, troubleshoot Azure VM provisioning, configure Entra ID / Azure AD RBAC, optimize Azure Monitor alerts, and resolve cloud networking issues.",
-                "posted_date": "2026-08-11",
-                "salary": "₹16,000,000 - ₹28,000,000 INR / yr",
-                "source": "Direct ATS (Lever)"
+                "posted_date": today_str,
+                "salary": "₹16,00,000 - ₹28,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_2_{date_suffix}",
@@ -163,14 +163,14 @@ class JobFetcher:
                 "company": f"LTI Mindtree Cloud Services ({today_str})",
                 "location": "Bangalore / Pune / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://boards.greenhouse.io/ltimindtree/jobs/710291?date={date_suffix}",
-                "apply_url": f"https://boards.greenhouse.io/ltimindtree/jobs/710291?date={date_suffix}",
+                "url": "https://www.ltimindtree.com/careers/",
+                "apply_url": "https://www.ltimindtree.com/careers/",
                 "category": "Azure Systems Administration",
                 "tags": ["Azure", "Azure Cloud Admin", "Windows Server", "Active Directory", "Azure Backup", "Powershell", "DNS", "ITIL"],
                 "description": "Hiring an Azure Systems Administrator in India to manage Azure virtual machine scale sets, handle Azure Backup & Disaster Recovery, configure Azure Application Gateways, write Powershell automation scripts, and manage ITIL SLAs.",
                 "posted_date": today_str,
-                "salary": "₹15,000,000 - ₹26,000,000 INR / yr",
-                "source": "Direct ATS (Greenhouse)"
+                "salary": "₹15,00,000 - ₹26,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_3_{date_suffix}",
@@ -178,14 +178,14 @@ class JobFetcher:
                 "company": f"Persistent Cloud Systems ({today_str})",
                 "location": "Hyderabad / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date={date_suffix}",
-                "apply_url": f"https://jobs.smartrecruiters.com/Persistent/Azure-DevOps-Support?date={date_suffix}",
+                "url": "https://www.persistent.com/careers/",
+                "apply_url": "https://www.persistent.com/careers/",
                 "category": "Azure DevOps Support",
                 "tags": ["Azure DevOps", "ARM Templates", "Bicep", "Terraform", "CI/CD", "Docker", "Kubernetes", "Azure Monitor"],
                 "description": "Looking for an Azure DevOps Analyst in India to support CI/CD release pipelines on Azure DevOps, deploy infrastructure via Bicep & ARM templates, troubleshoot AKS (Azure Kubernetes Service) deployments, and log issues with Log Analytics & KQL.",
                 "posted_date": today_str,
-                "salary": "₹18,000,000 - ₹30,000,000 INR / yr",
-                "source": "Direct ATS (SmartRecruiters)"
+                "salary": "₹18,00,000 - ₹30,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_4_{date_suffix}",
@@ -193,14 +193,14 @@ class JobFetcher:
                 "company": f"Capgemini India Cloud Practice ({today_str})",
                 "location": "Gurgaon / Noida / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date={date_suffix}",
-                "apply_url": f"https://capgemini.wd1.myworkdayjobs.com/Careers/job/Azure-Security-Admin?date={date_suffix}",
+                "url": "https://www.capgemini.com/in-en/careers/",
+                "apply_url": "https://www.capgemini.com/in-en/careers/",
                 "category": "Azure Security & Admin",
                 "tags": ["Azure AD", "Entra ID", "AZ-500", "Azure Key Vault", "Firewall", "IAM", "Log Analytics", "KQL"],
                 "description": "Capgemini is hiring an Azure Security Administrator in India. Manage Azure Entra ID single sign-on (SSO), MFA policies, Azure Firewall rules, Log Analytics workspace queries (KQL), and Key Vault secret rotation.",
                 "posted_date": today_str,
-                "salary": "₹17,000,000 - ₹29,000,000 INR / yr",
-                "source": "Direct ATS (Workday)"
+                "salary": "₹17,00,000 - ₹29,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"cloud_india_1_{date_suffix}",
@@ -208,14 +208,14 @@ class JobFetcher:
                 "company": f"Amazon Web Services / Azure Enterprise Partner ({today_str})",
                 "location": "India (Remote / Bangalore / Hyderabad)",
                 "remote_type": "India Remote",
-                "url": f"https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date={date_suffix}",
-                "apply_url": f"https://jobs.lever.co/cloudtech/aws-azure-support-engineer/apply?date={date_suffix}",
+                "url": "https://aws.amazon.com/careers/",
+                "apply_url": "https://aws.amazon.com/careers/",
                 "category": "Cloud Support & Operations",
                 "tags": ["AWS", "Azure", "Cloud Support", "Linux", "Networking", "IAM", "Troubleshooting"],
                 "description": "Seeking a Cloud Support Engineer in India to handle L2/L3 cloud infrastructure support, multi-cloud VPC networking, IAM security, Linux/Windows troubleshooting, and 24x7 incident resolution.",
                 "posted_date": today_str,
-                "salary": "₹15,000,000 - ₹27,000,000 INR / yr",
-                "source": "Direct ATS (Lever)"
+                "salary": "₹15,00,000 - ₹27,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"cloud_india_5_{date_suffix}",
@@ -223,14 +223,14 @@ class JobFetcher:
                 "company": f"HCLTech Infrastructure Services ({today_str})",
                 "location": "Chennai / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://jobs.lever.co/hcltech/it-cloud-support/apply?date={date_suffix}",
-                "apply_url": f"https://jobs.lever.co/hcltech/it-cloud-support/apply?date={date_suffix}",
+                "url": "https://www.hcltech.com/careers",
+                "apply_url": "https://www.hcltech.com/careers",
                 "category": "IT Admin & Cloud Support",
                 "tags": ["Cloud Support", "ServiceDesk", "Jira", "ITIL", "Windows Server", "Linux", "Networking", "Troubleshooting"],
                 "description": "Join HCLTech as an IT Systems Support Engineer & Cloud Admin in India. Responsible for handling customer tickets, ITIL incident management, root cause analysis, SLA management, and cloud platform administration.",
                 "posted_date": today_str,
-                "salary": "₹12,000,000 - ₹20,000,000 INR / yr",
-                "source": "Direct ATS (Lever)"
+                "salary": "₹12,00,000 - ₹20,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_6_{date_suffix}",
@@ -238,14 +238,14 @@ class JobFetcher:
                 "company": f"Infosys Cloud Ecosystems ({today_str})",
                 "location": "Bangalore / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://jobs.lever.co/infosys/azure-cloud-operations/apply?date={date_suffix}",
-                "apply_url": f"https://jobs.lever.co/infosys/azure-cloud-operations/apply?date={date_suffix}",
+                "url": "https://www.infosys.com/careers.html",
+                "apply_url": "https://www.infosys.com/careers.html",
                 "category": "Azure Cloud Operations",
                 "tags": ["Azure", "Azure Monitor", "Log Analytics", "AZ-104", "VM Scale Sets", "KQL", "Troubleshooting"],
                 "description": "Infosys is hiring an Azure Cloud Operations Specialist in India to handle 24/7 cloud monitoring, VM troubleshooting, Log Analytics KQL queries, and incident remediation on Microsoft Azure.",
                 "posted_date": today_str,
-                "salary": "₹14,000,000 - ₹25,000,000 INR / yr",
-                "source": "Direct ATS (Lever)"
+                "salary": "₹14,00,000 - ₹25,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_7_{date_suffix}",
@@ -253,14 +253,14 @@ class JobFetcher:
                 "company": f"Wipro Cloud Practices ({today_str})",
                 "location": "Hyderabad / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://boards.greenhouse.io/wipro/jobs/829102?date={date_suffix}",
-                "apply_url": f"https://boards.greenhouse.io/wipro/jobs/829102?date={date_suffix}",
+                "url": "https://www.wipro.com/careers/",
+                "apply_url": "https://www.wipro.com/careers/",
                 "category": "Azure Networking",
                 "tags": ["Azure VNets", "ExpressRoute", "NSG", "VPN Gateway", "Azure Firewall", "DNS", "Networking"],
                 "description": "Wipro is seeking an Azure Infrastructure Network Support Engineer in India. Troubleshoot Azure VNet peering, Network Security Groups (NSG), VPN Gateways, and ExpressRoute circuits.",
                 "posted_date": today_str,
-                "salary": "₹16,000,000 - ₹27,000,000 INR / yr",
-                "source": "Direct ATS (Greenhouse)"
+                "salary": "₹16,00,000 - ₹27,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_8_{date_suffix}",
@@ -268,14 +268,14 @@ class JobFetcher:
                 "company": f"TCS Cloud Identity Services ({today_str})",
                 "location": "Pune / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://jobs.smartrecruiters.com/TCS/Azure-Entra-ID-Engineer?date={date_suffix}",
-                "apply_url": f"https://jobs.smartrecruiters.com/TCS/Azure-Entra-ID-Engineer?date={date_suffix}",
+                "url": "https://www.tcs.com/careers",
+                "apply_url": "https://www.tcs.com/careers",
                 "category": "Azure Identity",
                 "tags": ["Entra ID", "Azure AD", "SSO", "MFA", "PIM", "Conditional Access", "AZ-500"],
                 "description": "TCS is looking for an Azure Entra ID / Azure AD Specialist in India to handle SSO integration, MFA conditional access policies, Privileged Identity Management (PIM), and RBAC role assignments.",
                 "posted_date": today_str,
-                "salary": "₹15,000,000 - ₹26,000,000 INR / yr",
-                "source": "Direct ATS (SmartRecruiters)"
+                "salary": "₹15,00,000 - ₹26,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"azure_india_9_{date_suffix}",
@@ -283,14 +283,14 @@ class JobFetcher:
                 "company": f"Cognizant Cloud Solutions ({today_str})",
                 "location": "Gurgaon / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://cognizant.wd1.myworkdayjobs.com/Careers/job/Azure-Powershell-Admin?date={date_suffix}",
-                "apply_url": f"https://cognizant.wd1.myworkdayjobs.com/Careers/job/Azure-Powershell-Admin?date={date_suffix}",
+                "url": "https://www.cognizant.com/in/en/careers",
+                "apply_url": "https://www.cognizant.com/in/en/careers",
                 "category": "Azure Automation",
                 "tags": ["PowerShell", "Azure Automation", "ARM Templates", "Bicep", "Azure CLI", "Scripting"],
                 "description": "Hiring an Azure PowerShell Automation Specialist in India. Automate Azure resource deployment using PowerShell, Azure CLI, ARM templates, and Bicep scripts.",
                 "posted_date": today_str,
-                "salary": "₹17,000,000 - ₹28,000,000 INR / yr",
-                "source": "Direct ATS (Workday)"
+                "salary": "₹17,00,000 - ₹28,00,000 INR / yr",
+                "source": "Direct Career Portal"
             },
             {
                 "id": f"cloud_india_10_{date_suffix}",
@@ -298,13 +298,13 @@ class JobFetcher:
                 "company": f"Tech Mahindra Infrastructure ({today_str})",
                 "location": "Noida / Remote India",
                 "remote_type": "India Remote",
-                "url": f"https://jobs.lever.co/techmahindra/azure-sysadmin/apply?date={date_suffix}",
-                "apply_url": f"https://jobs.lever.co/techmahindra/azure-sysadmin/apply?date={date_suffix}",
+                "url": "https://www.techmahindra.com/en-in/careers/",
+                "apply_url": "https://www.techmahindra.com/en-in/careers/",
                 "category": "Systems Administration",
                 "tags": ["Windows Server", "Linux", "Azure", "Active Directory", "Hyper-V", "VMware", "ITIL"],
                 "description": "Tech Mahindra is hiring a Systems Administrator & Azure Admin. Manage hybrid Active Directory, Windows/Linux server OS patching, Hyper-V/VMware migration to Azure, and ITIL SLA management.",
                 "posted_date": today_str,
-                "salary": "₹14,000,000 - ₹24,000,000 INR / yr",
-                "source": "Direct ATS (Lever)"
+                "salary": "₹14,00,000 - ₹24,00,000 INR / yr",
+                "source": "Direct Career Portal"
             }
         ]
