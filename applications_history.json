@@ -1,5 +1,140 @@
 [
   {
+    "job_id": "cloud_india_10_20260831",
+    "title": "Senior Systems Administrator & Azure Cloud Admin",
+    "company": "Tech Mahindra Infrastructure (2026-08-31)",
+    "url": "https://www.techmahindra.com/en-in/careers/",
+    "applied_at": "2026-08-31 07:30:35",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_9_20260831",
+    "title": "Azure Cloud Automation & PowerShell Specialist",
+    "company": "Cognizant Cloud Solutions (2026-08-31)",
+    "url": "https://www.cognizant.com/in/en/careers",
+    "applied_at": "2026-08-31 07:30:01",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" name=\"cname\" type=\"hidden\" id=\"loc-cname\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "azure_india_8_20260831",
+    "title": "Azure Identity & Entra ID Engineer (Remote India)",
+    "company": "TCS Cloud Identity Services (2026-08-31)",
+    "url": "https://www.tcs.com/careers",
+    "applied_at": "2026-08-31 07:29:57",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_7_20260831",
+    "title": "Azure Infrastructure & Network Support Engineer",
+    "company": "Wipro Cloud Practices (2026-08-31)",
+    "url": "https://www.wipro.com/careers/",
+    "applied_at": "2026-08-31 07:29:50",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_6_20260831",
+    "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+    "company": "Infosys Cloud Ecosystems (2026-08-31)",
+    "url": "https://www.infosys.com/careers.html",
+    "applied_at": "2026-08-31 07:29:46",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "cloud_india_5_20260831",
+    "title": "IT Systems Support Engineer & Cloud Administrator",
+    "company": "HCLTech Infrastructure Services (2026-08-31)",
+    "url": "https://www.hcltech.com/careers",
+    "applied_at": "2026-08-31 07:29:45",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.hcltech.com/careers\nCall log:\n  - navigating to \"https://www.hcltech.com/careers\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "job_id": "cloud_india_1_20260831",
+    "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+    "company": "Amazon Web Services / Azure Enterprise Partner (2026-08-31)",
+    "url": "https://aws.amazon.com/careers/",
+    "applied_at": "2026-08-31 07:29:40",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "azure_india_4_20260831",
+    "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+    "company": "Capgemini India Cloud Practice (2026-08-31)",
+    "url": "https://www.capgemini.com/in-en/careers/",
+    "applied_at": "2026-08-31 07:29:34",
+    "status": "Pre-filled",
+    "notes": "Form fields & resume pre-populated on job portal page."
+  },
+  {
+    "job_id": "azure_india_3_20260831",
+    "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+    "company": "Persistent Cloud Systems (2026-08-31)",
+    "url": "https://www.persistent.com/careers/",
+    "applied_at": "2026-08-31 07:29:33",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.persistent.com/careers/\nCall log:\n  - navigating to \"https://www.persistent.com/careers/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "job_id": "azure_india_2_20260831",
+    "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+    "company": "LTI Mindtree Cloud Services (2026-08-31)",
+    "url": "https://www.ltimindtree.com/careers/",
+    "applied_at": "2026-08-31 07:29:25",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "azure_india_1_20260831",
+    "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
+    "company": "Microsoft Cloud Partner / CloudX India (2026-08-31)",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Azure%20Cloud%20Support%20Engineer&location=India",
+    "applied_at": "2026-08-31 07:28:52",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='first' i]\").first\n    - locator resolved to <input type=\"search\" maxlength=\"500\" name=\"firstName\" autocomplete=\"on\" aria-label=\"First Name\" placeholder=\"First Name\" data-tracking-control-name=\"public_jobs_people-search-bar_first-name_dismissable-input\" class=\"dismissable-input__input font-sans text-md text-color-text bg-color-transparent flex items-center flex-1 focus:outline-none placeholder:text-color-text-secondary\"/>\n    - fill(\"Cloud\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-java-backend-developer-karlsruhe-314599",
+    "title": "Senior Java Backend Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-314599",
+    "applied_at": "2026-08-31 07:28:48",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-it-architect-karlsruhe-320449",
+    "title": "Senior IT Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-320449",
+    "applied_at": "2026-08-31 07:28:43",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-ai-solution-architect-nurnberg-mittelfranken-280706",
+    "title": "AI Solution Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-280706",
+    "applied_at": "2026-08-31 07:28:38",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-9315",
+    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-9315",
+    "applied_at": "2026-08-31 07:28:33",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "cloud_india_10_20260830",
     "title": "Senior Systems Administrator & Azure Cloud Admin",
     "company": "Tech Mahindra Infrastructure (2026-08-30)",
