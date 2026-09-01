@@ -1,0 +1,36 @@
+{
+  "run_time": "2026-09-01 21:12:09",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 4,
+  "jobs": [
+    {
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "location": "Markt Indersdorf",
+      "match_score": 60,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "location": "Homeoffice",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Java Softwareentwickler:in (w/m/d) \u2013 Backend & Microservices",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "location": "Homeoffice",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Product Engineer, eComm (all gender)",
+      "company": "Distribusion Technologies",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}

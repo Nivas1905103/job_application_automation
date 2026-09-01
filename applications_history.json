@@ -1,5 +1,41 @@
 [
   {
+    "job_id": "arbeitnow_remote-senior-product-engineer-ecomm-all-gender-berlin-121973",
+    "title": "Senior Product Engineer, eComm (all gender)",
+    "company": "Distribusion Technologies",
+    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-121973",
+    "applied_at": "2026-09-01 21:12:04",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-java-softwareentwicklerin-backend-microservices-munster-318659",
+    "title": "Senior Java Softwareentwickler:in (w/m/d) \u2013 Backend & Microservices",
+    "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+    "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-softwareentwicklerin-backend-microservices-munster-318659",
+    "applied_at": "2026-09-01 21:11:59",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-java-softwareentwickler-backend-microservices-munster-41598",
+    "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
+    "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+    "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-softwareentwickler-backend-microservices-munster-41598",
+    "applied_at": "2026-09-01 21:11:55",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-127506",
+    "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+    "company": "Auralis Group",
+    "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-127506",
+    "applied_at": "2026-09-01 21:11:19",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_GILAyZ7XktHmEcSE\" name=\"arbeitnow_name_GILAyZ7XktHmEcSE\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "arbeitnow_remote-site-reliability-engineers-sre-252482",
     "title": "Site Reliability Engineers (SRE)",
     "company": "Xm",
