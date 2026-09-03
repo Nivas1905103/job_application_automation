@@ -1,0 +1,22 @@
+{
+  "run_time": "2026-09-03 21:12:16",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 2,
+  "jobs": [
+    {
+      "title": "Nix / NixOS / Nixpkgs Software Engineering Intern",
+      "company": "atvari GmbH",
+      "location": "L\u00fcneburg",
+      "match_score": 66,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "ThriveCart",
+      "location": "London",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    }
+  ]
+}

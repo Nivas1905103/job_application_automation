@@ -1,5 +1,23 @@
 [
   {
+    "job_id": "arbeitnow_software-engineer-london-322848",
+    "title": "Software Engineer",
+    "company": "ThriveCart",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848",
+    "applied_at": "2026-09-03 21:12:12",
+    "status": "Pre-filled (Action Required)",
+    "notes": "Form fields and resume uploaded successfully! CAPTCHA detected - 1 click verification ready."
+  },
+  {
+    "job_id": "arbeitnow_nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907",
+    "title": "Nix / NixOS / Nixpkgs Software Engineering Intern",
+    "company": "atvari GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907",
+    "applied_at": "2026-09-03 21:11:38",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_0StF63fbB7SpVlKK\" name=\"arbeitnow_name_0StF63fbB7SpVlKK\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "arbeitnow_remote-senior-product-engineer-ecomm-all-gender-berlin-121973",
     "title": "Senior Product Engineer, eComm (all gender)",
     "company": "Distribusion Technologies",
