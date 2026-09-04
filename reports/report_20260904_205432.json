@@ -1,0 +1,22 @@
+{
+  "run_time": "2026-09-04 20:54:32",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 2,
+  "jobs": [
+    {
+      "title": "Senior Cloud Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "match_score": 60,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Strategist, Data & AI (Remote - US, UK, Nigeria, Ethiopia, India or Rwanda)",
+      "company": "Resolvetosavelives",
+      "location": "United States, Nigeria, Ethiopia, India or Rwanda",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    }
+  ]
+}
