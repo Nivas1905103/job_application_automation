@@ -1,0 +1,29 @@
+{
+  "run_time": "2026-09-05 20:33:19",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 3,
+  "jobs": [
+    {
+      "title": "Python Backend Engineer (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Nucs AI",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
