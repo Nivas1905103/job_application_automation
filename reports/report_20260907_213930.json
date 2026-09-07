@@ -1,0 +1,36 @@
+{
+  "run_time": "2026-09-07 21:39:30",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 4,
+  "jobs": [
+    {
+      "title": "Senior Cloud Test & DevOps Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Application Security Engineer (all genders)",
+      "company": "Distribusion Technologies",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Backend + Infrastructure Engineer (Platform)",
+      "company": "Soda Data Nv",
+      "location": "France",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "company": "Payflows",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
