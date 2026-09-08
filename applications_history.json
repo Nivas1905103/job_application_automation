@@ -1,5 +1,23 @@
 [
   {
+    "job_id": "arbeitnow_contract-golang-software-engineer-remote-europe-berlin-12662",
+    "title": "Contract Golang Software Engineer (Remote Europe)",
+    "company": "YLD.com",
+    "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-golang-software-engineer-remote-europe-berlin-12662",
+    "applied_at": "2026-09-08 21:18:37",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_IRRDPaiAmOAViaZy\" name=\"arbeitnow_name_IRRDPaiAmOAViaZy\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
+    "title": "KI-Consultant / AI Enthusiast in der Baubranche (m/w/d) Remote",
+    "company": "Teamsware GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/teamsware-gmbh/ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
+    "applied_at": "2026-09-08 21:18:03",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_GRqhvXe8gC8Msmjb\" name=\"arbeitnow_name_GRqhvXe8gC8Msmjb\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "arbeitnow_remote-senior-backend-engineer-paris-324081",
     "title": "Senior Backend Engineer",
     "company": "Payflows",
