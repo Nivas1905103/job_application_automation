@@ -1,5 +1,14 @@
 [
   {
+    "job_id": "arbeitnow_senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-267555",
+    "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
+    "company": "pathway solutions gmbh",
+    "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-267555",
+    "applied_at": "2026-09-09 21:03:25",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_NwnpQ6UKHmo7ToHx\" name=\"arbeitnow_name_NwnpQ6UKHmo7ToHx\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "arbeitnow_contract-golang-software-engineer-remote-europe-berlin-12662",
     "title": "Contract Golang Software Engineer (Remote Europe)",
     "company": "YLD.com",
