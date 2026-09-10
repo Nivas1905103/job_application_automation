@@ -1,0 +1,29 @@
+{
+  "run_time": "2026-09-10 21:02:34",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 3,
+  "jobs": [
+    {
+      "title": "Senior Business Development Manager - New Business, UK & Europe",
+      "company": "Valsoft Corp",
+      "location": "Germany",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Remote",
+      "match_score": 85,
+      "status": "Submitted"
+    },
+    {
+      "title": "Business Analyst / Product Owner",
+      "company": "Trinetix",
+      "location": "Germany",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
