@@ -1,5 +1,41 @@
 [
   {
+    "job_id": "arbeitnow_freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
+    "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
+    "company": "Nexgate IT GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
+    "applied_at": "2026-09-12 20:44:57",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_08BE7UAtfadMXvwu\" name=\"arbeitnow_name_08BE7UAtfadMXvwu\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-frontend-developer-all-genders-287472",
+    "title": "Senior Frontend Developer (all genders)",
+    "company": "Contabo",
+    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-287472",
+    "applied_at": "2026-09-12 20:44:52",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
+    "title": "Senior Software Developer \u2013 Platform & Infrastructure Engineering (all genders)",
+    "company": "Contabo",
+    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
+    "applied_at": "2026-09-12 20:44:47",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-senior-ml-engineer-germany-3-month-project-282468",
+    "title": "Senior ML Engineer | Germany (3 Month project)",
+    "company": "Intetics 2",
+    "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-senior-ml-engineer-germany-3-month-project-282468",
+    "applied_at": "2026-09-12 20:44:42",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "arbeitnow_remote-senior-pipeline-td-film-2d-london-448943",
     "title": "Senior Pipeline TD - Film 2D",
     "company": "Framestore",

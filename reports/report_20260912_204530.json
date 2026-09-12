@@ -1,0 +1,36 @@
+{
+  "run_time": "2026-09-12 20:45:30",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 4,
+  "jobs": [
+    {
+      "title": "Senior ML Engineer | Germany (3 Month project)",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Developer \u2013 Platform & Infrastructure Engineering (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Frontend Developer (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
+      "company": "Nexgate IT GmbH",
+      "location": "Bad Homburg",
+      "match_score": 77,
+      "status": "Pre-filled / Prepared"
+    }
+  ]
+}
