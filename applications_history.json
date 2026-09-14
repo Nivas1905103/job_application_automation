@@ -1,5 +1,14 @@
 [
   {
+    "job_id": "arbeitnow_sympathischer-it-systemadministrator-standort-munster-hybrid-327780",
+    "title": "Sympathischer IT-Systemadministrator (m/w/d) - Standort M\u00fcnster (hybrid)",
+    "company": "Intercon Solutions GmbH",
+    "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-it-systemadministrator-standort-munster-hybrid-327780",
+    "applied_at": "2026-09-14 21:56:32",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_8PTzNlB8DOJzw9xe\" name=\"arbeitnow_name_8PTzNlB8DOJzw9xe\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "arbeitnow_senior-backend-engineer-python-remote-munich-2605",
     "title": "Senior Backend Engineer (Python) - Remote",
     "company": "Breathment",
