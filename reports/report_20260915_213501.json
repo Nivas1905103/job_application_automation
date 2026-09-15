@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-09-15 21:35:01",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Linux-Systemadministrator (m/w/d) | Hybrid in Freiburg\ud83c\udf04",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Systemadministrator Linux (m/w/d) | Hybrid in Freiburg\ud83c\udf04",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Tech Operations Analyst - Graduate (all genders)",
+      "company": "Distribusion Technologies",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Solution Architect - LangGraph & Agentic AI",
+      "company": "Belmont Lavan Ltd",
+      "location": "Stuttgart, Germany",
+      "match_score": 57,
+      "status": "Submitted"
+    },
+    {
+      "title": "AI Application Engineer - LangGraph & Agentic AI",
+      "company": "Belmont Lavan Ltd",
+      "location": "Stuttgart, Germany",
+      "match_score": 57,
+      "status": "Submitted"
+    }
+  ]
+}
