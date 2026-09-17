@@ -1,0 +1,22 @@
+{
+  "run_time": "2026-09-17 21:34:44",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 2,
+  "jobs": [
+    {
+      "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "company": "epilot GmbH",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Technical Lead - GPU Infrastructure",
+      "company": "Tether Operations Limited",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    }
+  ]
+}
