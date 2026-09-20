@@ -1,0 +1,22 @@
+{
+  "run_time": "2026-09-20 20:58:08",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 2,
+  "jobs": [
+    {
+      "title": "(Senior) IT Consultant (all genders) - Active Directory, PKI & Security",
+      "company": "teccle group GmbH",
+      "location": "Homeoffice",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Principal Infrastructure Engineer",
+      "company": "Sezzle",
+      "location": "Remote",
+      "match_score": 85,
+      "status": "Submitted"
+    }
+  ]
+}
