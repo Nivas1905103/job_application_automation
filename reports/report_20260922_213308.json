@@ -1,0 +1,64 @@
+{
+  "run_time": "2026-09-22 21:33:08",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 8,
+  "jobs": [
+    {
+      "title": "Senior Software Engineer, Kubernetes",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Engineer, Engineering Operations",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Technical Customer Success Manager - AMER",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Engineer, Backend - Reliability",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Technical Writer",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Software Engineer - Infrastructure",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Engineering Manager - Infrastructure",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 66,
+      "status": "Submitted"
+    }
+  ]
+}
