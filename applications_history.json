@@ -1,5 +1,23 @@
 [
   {
+    "job_id": "arbeitnow_ai-product-engineer-bielefeld-415380",
+    "title": "AI Product Engineer",
+    "company": "paddy",
+    "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380",
+    "applied_at": "2026-09-23 21:38:28",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_j3p6Iimiabq20eCh\" name=\"arbeitnow_name_j3p6Iimiabq20eCh\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_linguist-japanese-remote-79710",
+    "title": "Linguist - Japanese - Remote",
+    "company": "LILT (Production)",
+    "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-japanese-remote-79710",
+    "applied_at": "2026-09-23 21:38:23",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "arbeitnow_remote-engineering-manager-infrastructure-472002",
     "title": "Engineering Manager - Infrastructure",
     "company": "Camunda",
