@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-09-26 21:22:04",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Senior Solutions Architect, Managed Service Providers",
+      "company": "purestorage",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Data Engineer & Consultant (all genders) \u2013 Microsoft Fabric",
+      "company": "teccle group GmbH",
+      "location": "Homeoffice",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Growth Marketing Manager (Subscriptions)",
+      "company": "Duck Duck Go",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "Duck Duck Go",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Knit - Research Manager",
+      "company": "Eleve Talent",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
