@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-09-27 16:46:44",
+  "candidate_name": "NIVAS S",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 16,
+  "jobs": [
+    {
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer Inc",
+      "location": "Worldwide",
+      "match_score": 50,
+      "status": "Pre-filled (Action Required)"
+    },
+    {
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Project Manager, Gaming Localization Production",
+      "company": "LILT (Production)",
+      "location": "Remote",
+      "match_score": 60,
+      "status": "Submitted"
+    },
+    {
+      "title": "Account Executive, DACH",
+      "company": "Omilia Natural Language Solutions Ua Ltd",
+      "location": "Switzerland",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "VP, Growth",
+      "company": "Nivoda",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Azure Cloud Support Engineer - L2/L3 (India Remote)",
+      "company": "Microsoft Cloud Partner / CloudX India (2026-09-27)",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 92,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Azure Systems Administrator & Infrastructure Support (Remote India)",
+      "company": "LTI Mindtree Cloud Services (2026-09-27)",
+      "location": "Bangalore / Pune / Remote India",
+      "match_score": 82,
+      "status": "Submitted"
+    },
+    {
+      "title": "Azure DevOps & Cloud Infrastructure Analyst (Remote India)",
+      "company": "Persistent Cloud Systems (2026-09-27)",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Azure Security & Identity Administrator (Entra ID / Azure AD)",
+      "company": "Capgemini India Cloud Practice (2026-09-27)",
+      "location": "Gurgaon / Noida / Remote India",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Cloud Support Engineer - AWS & Azure Multi-Cloud (India Remote)",
+      "company": "Amazon Web Services / Azure Enterprise Partner (2026-09-27)",
+      "location": "India (Remote / Bangalore / Hyderabad)",
+      "match_score": 77,
+      "status": "Submitted"
+    },
+    {
+      "title": "IT Systems Support Engineer & Cloud Administrator",
+      "company": "HCLTech Infrastructure Services (2026-09-27)",
+      "location": "Chennai / Remote India",
+      "match_score": 64,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Azure Cloud Operations Specialist (L2/L3 Remote)",
+      "company": "Infosys Cloud Ecosystems (2026-09-27)",
+      "location": "Bangalore / Remote India",
+      "match_score": 77,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Infrastructure & Network Support Engineer",
+      "company": "Wipro Cloud Practices (2026-09-27)",
+      "location": "Hyderabad / Remote India",
+      "match_score": 50,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Identity & Entra ID Engineer (Remote India)",
+      "company": "TCS Cloud Identity Services (2026-09-27)",
+      "location": "Pune / Remote India",
+      "match_score": 57,
+      "status": "Pre-filled"
+    },
+    {
+      "title": "Azure Cloud Automation & PowerShell Specialist",
+      "company": "Cognizant Cloud Solutions (2026-09-27)",
+      "location": "Gurgaon / Remote India",
+      "match_score": 53,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Senior Systems Administrator & Azure Cloud Admin",
+      "company": "Tech Mahindra Infrastructure (2026-09-27)",
+      "location": "Noida / Remote India",
+      "match_score": 62,
+      "status": "Pre-filled"
+    }
+  ]
+}
