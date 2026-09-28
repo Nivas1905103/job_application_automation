@@ -1,5 +1,32 @@
 [
   {
+    "job_id": "arbeitnow_remote-major-account-manager-emea-126206",
+    "title": "Major Account Manager (EMEA)",
+    "company": "Datadog",
+    "url": "https://www.arbeitnow.ch/jobs/companies/datadog/remote-major-account-manager-emea-126206",
+    "applied_at": "2026-09-28 23:26:17",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_chief-technology-officer-dortmund-339770",
+    "title": "Chief Technology Officer",
+    "company": "Worldwide Placement Limited",
+    "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/chief-technology-officer-dortmund-339770",
+    "applied_at": "2026-09-28 23:25:44",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_mk7tF3xvuUOdYDLG\" name=\"arbeitnow_name_mk7tF3xvuUOdYDLG\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_remote-ai-developer-nurnberg-225660",
+    "title": "AI Developer (m/f/d)",
+    "company": "Partspace",
+    "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-225660",
+    "applied_at": "2026-09-28 23:25:39",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "arbeitnow_remote-product-engineer-85511",
     "title": "Product Engineer",
     "company": "0G",

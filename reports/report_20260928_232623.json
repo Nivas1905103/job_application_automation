@@ -1,0 +1,29 @@
+{
+  "run_time": "2026-09-28 23:26:23",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 3,
+  "jobs": [
+    {
+      "title": "AI Developer (m/f/d)",
+      "company": "Partspace",
+      "location": "N\u00fcrnberg",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Chief Technology Officer",
+      "company": "Worldwide Placement Limited",
+      "location": "Dortmund",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Major Account Manager (EMEA)",
+      "company": "Datadog",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
