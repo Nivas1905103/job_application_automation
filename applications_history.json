@@ -1,5 +1,50 @@
 [
   {
+    "job_id": "arbeitnow_remote-senior-software-engineer-quality-4113",
+    "title": "Senior Software Engineer, Quality",
+    "company": "Camunda",
+    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
+    "applied_at": "2026-09-29 22:30:10",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-network-operation-engineer-411432",
+    "title": "Network Operation Engineer",
+    "company": "Share",
+    "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
+    "applied_at": "2026-09-29 22:30:06",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-network-developer-269751",
+    "title": "Network Developer",
+    "company": "Share",
+    "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
+    "applied_at": "2026-09-29 22:30:01",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_junior-onboarding-customer-success-manager-remote-berlin-307387",
+    "title": "(Junior) Onboarding Customer Success Manager (m/w/d) - Remote",
+    "company": "Pflegia",
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/junior-onboarding-customer-success-manager-remote-berlin-307387",
+    "applied_at": "2026-09-29 22:29:28",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_9lwbvcXMrl2HOYIX\" name=\"arbeitnow_name_9lwbvcXMrl2HOYIX\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_werkstudent-onboarding-customer-success-berlin-281358",
+    "title": "Werkstudent (m/w/d) Onboarding Customer Success",
+    "company": "Pflegia",
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/werkstudent-onboarding-customer-success-berlin-281358",
+    "applied_at": "2026-09-29 22:28:54",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_tiSIPScYt3M0alno\" name=\"arbeitnow_name_tiSIPScYt3M0alno\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
     "job_id": "arbeitnow_remote-major-account-manager-emea-126206",
     "title": "Major Account Manager (EMEA)",
     "company": "Datadog",

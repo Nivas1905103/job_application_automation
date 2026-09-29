@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-09-29 22:30:15",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Werkstudent (m/w/d) Onboarding Customer Success",
+      "company": "Pflegia",
+      "location": "Berlin",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "(Junior) Onboarding Customer Success Manager (m/w/d) - Remote",
+      "company": "Pflegia",
+      "location": "Berlin",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Network Developer",
+      "company": "Share",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Network Operation Engineer",
+      "company": "Share",
+      "location": "Remote",
+      "match_score": 75,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Engineer, Quality",
+      "company": "Camunda",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
