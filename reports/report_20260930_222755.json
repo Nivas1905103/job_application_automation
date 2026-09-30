@@ -1,0 +1,36 @@
+{
+  "run_time": "2026-09-30 22:27:55",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 4,
+  "jobs": [
+    {
+      "title": "Senior Account Executive (Europe, 100% remote)",
+      "company": "LimeFlight",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Network Engineer (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Forward Deployed Engineer - EMEA",
+      "company": "gitlab",
+      "location": "Remote",
+      "match_score": 80,
+      "status": "Submitted"
+    },
+    {
+      "title": "Healthcare & Life Sciences Principal, EMEA",
+      "company": "purestorage",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
