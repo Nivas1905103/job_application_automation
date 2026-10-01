@@ -1,0 +1,64 @@
+{
+  "run_time": "2026-10-01 22:50:20",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 8,
+  "jobs": [
+    {
+      "title": "Web Developer | Full Time (m/w/d)",
+      "company": "CONROO GmbH",
+      "location": "Munich",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Working Student Integrations Management (m/w/d)",
+      "company": "Recare Deutschland GmbH",
+      "location": "Remote job",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Conversational AI Application Developer (English and French Speaker)",
+      "company": "Omilia Natural Language Solutions Ua Ltd",
+      "location": "France",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Linguist - Wolof - UI Technical / Marketing - Remote",
+      "company": "LILT (Production)",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Linguist - Malagasy - UI Technical / Marketing - Remote",
+      "company": "LILT (Production)",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Linguist - Shona - UI Technical / Marketing - Remote",
+      "company": "LILT (Production)",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Linguist - Oromo - UI Technical / Marketing - Remote",
+      "company": "LILT (Production)",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Linguist - Mongolian - UI Technical / Marketing - Remote",
+      "company": "LILT (Production)",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
