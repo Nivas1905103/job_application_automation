@@ -1,5 +1,50 @@
 [
   {
+    "job_id": "arbeitnow_remote-senior-product-designer-design-systems-117305",
+    "title": "Senior Product Designer, Design Systems",
+    "company": "Duck Duck Go",
+    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-117305",
+    "applied_at": "2026-10-02 22:25:57",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-ai-product-engineer-berlin-20956",
+    "title": "AI Product Engineer (m/w/d)",
+    "company": "Getpress Gmbh",
+    "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
+    "applied_at": "2026-10-02 22:25:52",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_remote-backend-engineer-agentic-ai-berlin-371659",
+    "title": "Backend Engineer - Agentic AI (m/w/d)",
+    "company": "Getpress Gmbh",
+    "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
+    "applied_at": "2026-10-02 22:25:48",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
+    "job_id": "arbeitnow_senior-sap-hcm-solution-integration-architect-freelance-bonn-416412",
+    "title": "Senior SAP HCM Solution & Integration Architect - Freelance",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-hcm-solution-integration-architect-freelance-bonn-416412",
+    "applied_at": "2026-10-02 22:25:14",
+    "status": "Pre-filled / Prepared",
+    "notes": "Application packaged with candidate profile. Portal link ready: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*='name' i]:not([name*='first']):not([name*='last'])\").first\n    - locator resolved to <input value=\"\" type=\"text\" tabindex=\"-1\" autocomplete=\"nope\" id=\"arbeitnow_name_fOjWBjMX8dJBQSwU\" name=\"arbeitnow_name_fOjWBjMX8dJBQSwU\"/>\n    - fill(\"Applicant Name\")\n  - attempting fill action\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and editable\n      - element is not visible\n    - retrying fill action\n      - waiting 100ms\n    60 \u00d7 waiting for element to be visible, enabled and editable\n       - element is not visible\n     - retrying fill action\n       - waiting 500ms\n"
+  },
+  {
+    "job_id": "arbeitnow_remote-director-of-sales-europe-361404",
+    "title": "Director of Sales, Europe",
+    "company": "planetlabs",
+    "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-director-of-sales-europe-361404",
+    "applied_at": "2026-10-02 22:25:10",
+    "status": "Submitted",
+    "notes": "Form fields pre-filled, resume attached & application submitted successfully."
+  },
+  {
     "job_id": "arbeitnow_linguist-mongolian-ui-technical-marketing-remote-165068",
     "title": "Linguist - Mongolian - UI Technical / Marketing - Remote",
     "company": "LILT (Production)",

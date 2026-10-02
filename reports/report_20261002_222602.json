@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-10-02 22:26:02",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Director of Sales, Europe",
+      "company": "planetlabs",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior SAP HCM Solution & Integration Architect - Freelance",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "location": "Bonn",
+      "match_score": 50,
+      "status": "Pre-filled / Prepared"
+    },
+    {
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "location": "Berlin",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "AI Product Engineer (m/w/d)",
+      "company": "Getpress Gmbh",
+      "location": "Berlin",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Product Designer, Design Systems",
+      "company": "Duck Duck Go",
+      "location": "Remote",
+      "match_score": 50,
+      "status": "Submitted"
+    }
+  ]
+}
