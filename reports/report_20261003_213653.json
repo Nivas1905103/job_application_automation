@@ -1,0 +1,43 @@
+{
+  "run_time": "2026-10-03 21:36:53",
+  "candidate_name": "Cloud Operations Specialist",
+  "recipient_email": "nivasanmugam@gmail.com",
+  "total_applied": 5,
+  "jobs": [
+    {
+      "title": "Systemadministrator Linux (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "location": "Homeoffice",
+      "match_score": 66,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Engineer - Data Search (remote, Europe)",
+      "company": "Modash",
+      "location": "Berlin, Germany",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Backend Engineer - Data Core (remote, Europe)",
+      "company": "Modash",
+      "location": "Berlin, Germany",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Software Engineer - Data Search (remote, Europe)",
+      "company": "Modash",
+      "location": "Paris, France",
+      "match_score": 50,
+      "status": "Submitted"
+    },
+    {
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "match_score": 71,
+      "status": "Submitted"
+    }
+  ]
+}
